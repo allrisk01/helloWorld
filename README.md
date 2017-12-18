@@ -1,2 +1,3 @@
 # helloWorld
-just another reposity
+not only just another reposity
+hello, i'm Binh.
